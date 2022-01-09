@@ -1,0 +1,39 @@
+body{
+    background-color: #56ebde;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    text-align: center;
+    font-family: cursive;
+    font-style: oblique;
+    color:#09071a;
+    font-weight: 800;
+}
+h2:hover{
+    color:#0af071 ;
+    
+}
+input{
+    text-align: center;
+}
+li{
+    text-align: center;
+    list-style: none;
+    color:#040408 ;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 600;
+}
+button{
+    background-color: #69e0cf;
+    border:none;
+    height: 4vh;
+    color:black;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: oblique;
+}
